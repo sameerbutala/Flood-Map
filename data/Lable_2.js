@@ -1,0 +1,1 @@
+var json_Lable_2 = {"type":"FeatureCollection","name":"Lable_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":"Map by Dr. Sameer Butala (9423379721)"},"geometry":{"type":"Point","coordinates":[73.620876434545153,17.942001112644892]}}]}
